@@ -34,4 +34,4 @@ Set up your Binance API keys in config.py.
 
 Run the bot:
 
-python cli.py
+python ui.py
