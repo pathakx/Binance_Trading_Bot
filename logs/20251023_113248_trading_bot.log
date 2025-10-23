@@ -1,0 +1,5 @@
+2025-10-23 11:32:49,597 - trading_bot - INFO - Running in TESTNET mode
+2025-10-23 11:32:50,099 - trading_bot - INFO - Successfully connected to Binance API
+2025-10-23 11:32:50,099 - trading_bot - INFO - API Request: get_account_info, Params: None
+2025-10-23 11:32:50,850 - trading_bot - ERROR - API Error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
+2025-10-23 11:32:50,850 - trading_bot - ERROR - CLI Error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid

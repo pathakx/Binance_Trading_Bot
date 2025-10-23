@@ -1,0 +1,4 @@
+2025-10-23 11:54:39,945 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 11:54:40,283 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 11:54:40,284 - trading_bot - INFO - Fetching Futures account info
+2025-10-23 11:54:40,284 - trading_bot - ERROR - CLI Error: 'Session' object has no attribute 'GET'

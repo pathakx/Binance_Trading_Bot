@@ -1,0 +1,2 @@
+2025-10-23 11:51:41,747 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 11:51:43,591 - trading_bot - ERROR - Failed to connect to Binance Futures API: BinanceRequestException: Invalid Response: 

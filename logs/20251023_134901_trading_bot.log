@@ -1,0 +1,4 @@
+2025-10-23 13:49:02,215 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 13:49:02,922 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 13:49:02,923 - trading_bot - INFO - API Request: get_open_orders, Params: {}
+2025-10-23 13:49:03,161 - trading_bot - INFO - API Response: [{'orderId': 6713766891, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ2bf6a57ef2eb9d65d45521', 'price': '109500', 'avgPrice': '0', 'origQty': '0.001', 'executedQty': '0', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '109550', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1761207512735, 'updateTime': 1761207512735}]

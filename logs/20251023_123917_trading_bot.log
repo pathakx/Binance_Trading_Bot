@@ -1,0 +1,4 @@
+2025-10-23 12:39:18,076 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 12:39:18,443 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 12:39:18,444 - trading_bot - INFO - API Request: get_market_price, Params: {'symbol': 'BTCUSDT'}
+2025-10-23 12:39:18,657 - trading_bot - INFO - API Response: {'symbol': 'BTCUSDT', 'price': '109910.10', 'time': 1761203355575}

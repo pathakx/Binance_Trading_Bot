@@ -1,0 +1,13 @@
+2025-10-23 16:25:14,624 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 16:25:15,274 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 16:25:22,408 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 16:25:23,066 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 16:25:28,561 - trading_bot - INFO - API Request: place_market_order, Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-23 16:25:29,072 - trading_bot - INFO - API Response: {'orderId': 6732131147, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ346a72d60c0c864ce3731b', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761216929145}
+2025-10-23 16:25:29,077 - trading_bot - INFO - API Request: get_order_status, Params: {'symbol': 'BTCUSDT', 'orderId': 6732131147}
+2025-10-23 16:25:29,279 - trading_bot - INFO - API Response: {'orderId': 6732131147, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'x-Cb7ytekJ346a72d60c0c864ce3731b', 'price': '0.00', 'avgPrice': '109409.00000', 'origQty': '0.001', 'executedQty': '0.001', 'cumQuote': '109.40900', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1761216929145, 'updateTime': 1761216929145}
+2025-10-23 16:25:29,280 - trading_bot - ERROR - Error saving positions: [WinError 3] The system cannot find the path specified: ''
+2025-10-23 16:25:29,281 - trading_bot - INFO - Position in BTCUSDT is open with 0.001.
+2025-10-23 16:25:29,281 - trading_bot - INFO - Bought 0.001 BTCUSDT. Current net quantity: 0.001
+2025-10-23 16:25:39,281 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 16:25:39,936 - trading_bot - INFO - Successfully connected to Binance Futures API

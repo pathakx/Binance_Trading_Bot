@@ -1,0 +1,5 @@
+2025-10-23 12:40:16,005 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 12:40:16,618 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 12:40:16,620 - trading_bot - INFO - API Request: place_stop_limit_order, Params: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'timeInForce': 'GTC', 'quantity': 0.001, 'price': 29000.0, 'stopPrice': 29500.0}
+2025-10-23 12:40:16,823 - trading_bot - ERROR - API Error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-23 12:40:16,824 - trading_bot - ERROR - CLI Error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).

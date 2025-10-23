@@ -1,0 +1,5 @@
+2025-10-23 11:53:31,874 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 11:53:32,241 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 11:53:32,243 - trading_bot - INFO - Fetching Futures account info
+2025-10-23 11:53:32,449 - trading_bot - ERROR - API Error while getting account info: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
+2025-10-23 11:53:32,450 - trading_bot - ERROR - CLI Error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid

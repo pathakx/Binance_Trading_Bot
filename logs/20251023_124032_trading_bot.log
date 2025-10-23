@@ -1,0 +1,4 @@
+2025-10-23 12:40:33,098 - trading_bot - INFO - Running in TESTNET mode (Futures)
+2025-10-23 12:40:33,442 - trading_bot - INFO - Successfully connected to Binance Futures API
+2025-10-23 12:40:33,443 - trading_bot - INFO - API Request: get_open_orders, Params: {}
+2025-10-23 12:40:33,672 - trading_bot - INFO - API Response: []

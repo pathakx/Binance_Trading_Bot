@@ -1,0 +1,4 @@
+2025-10-23 11:33:04,901 - trading_bot - INFO - Running in TESTNET mode
+2025-10-23 11:33:05,100 - trading_bot - INFO - Successfully connected to Binance API
+2025-10-23 11:33:05,102 - trading_bot - INFO - API Request: get_market_price, Params: {'symbol': 'BTCUSDT'}
+2025-10-23 11:33:05,766 - trading_bot - INFO - API Response: {'symbol': 'BTCUSDT', 'price': '108842.30', 'time': 1761199381505}

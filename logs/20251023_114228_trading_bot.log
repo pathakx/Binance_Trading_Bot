@@ -1,0 +1,1 @@
+2025-10-23 11:42:29,723 - trading_bot - ERROR - CLI Error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
