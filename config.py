@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # API Configuration
-API_KEY = os.getenv('API_KEY', 'oDpH8cYxaazJY1areS8UK1WbpN8cs4iObhwfQIA1iKfBLF3fP1n34YheTKgfo2SQ')
-API_SECRET = os.getenv('API_SECRET', '6Ic3eW6HSAz4wjmFEfdvr2eZk68PvDnsyZL6hEp2K0BAkiL3y3pdOAKgTpeNh4J0')
+API_KEY = os.getenv('API_KEY', 'Your Api key')
+API_SECRET = os.getenv('API_SECRET', 'Your secret key')
 TESTNET = True
 
 # Binance API URLs
